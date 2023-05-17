@@ -15,7 +15,7 @@ body{
 }
 
 main{
-  background-image: url(imagens/Background.jpg);
+  background-image: url(Background.jpg);
   background-position: center;
   text-align: center;
   background-size: cover;
